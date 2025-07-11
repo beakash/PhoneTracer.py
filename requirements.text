@@ -1,0 +1,13 @@
+Usage
+
+python -m phonetracer.cli +12125551234 
+
+Contributing
+Pull requests are welcome. For major changes, please open an issue first.
+
+License
+MIT
+
+### `requirements.txt`
+```text
+phonenumbers>=8.12.0
